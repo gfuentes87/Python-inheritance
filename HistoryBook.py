@@ -2,7 +2,7 @@ from Book import Book
 '''
 Created on Sep 13, 2014
 
-@author: syd
+@author: Gus
 '''
 
 class HistoryBook(Book):
